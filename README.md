@@ -60,3 +60,4 @@ Explanation:
 
 ## What I learned
 Through this project, I learned how to write and execute Bash shell scripts in Linux. I learned to search lyric files using grep and count words using command-line tools. I also learned how to create backups, maintain activity logs, and schedule tasks using cron. This project improved my understanding of Linux commands and shell scripting.
+GitHub: @anjum-mansuri
